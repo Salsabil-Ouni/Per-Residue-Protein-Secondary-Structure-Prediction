@@ -25,15 +25,8 @@ The best model (BiLSTM) reaches **78.23% per-residue accuracy** on the test set.
 protein_secondary_structure.ipynb   main notebook, fully executed
 tp53_alphafold.pdb                  AlphaFold v6 structure for human TP53
 tp53_3d.html                        interactive 3D viewer (open in browser)
+README.md                         this file
 
-dl_project_final/
-  README.md                         this file
-  REPORT.md                         full technical report
-  drafts/                           experiment notebooks (activations, LR, dropout)
-  final/                            clean final notebook
-  figures/                          result figures (PNG)
-  presentation/                     PowerPoint slides (7 slides)
-```
 
 ---
 
